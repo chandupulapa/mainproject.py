@@ -81,5 +81,5 @@ btn_3.grid(row=0, column=1, ipady=5, padx=4, pady=5)
 
 btn_4=ttk.Button(frame4, text='Exit', width=10, command=root.quit)
 btn_4.grid(row=1, column=1, ipady=5, padx=4, pady=5)
-
+#pulled 
 root.mainloop()
